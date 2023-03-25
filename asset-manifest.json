@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://JKyEun.github.io/react-publish-practice/static/css/main.e6c13ad2.css",
-    "main.js": "https://JKyEun.github.io/react-publish-practice/static/js/main.878c6d99.js",
+    "main.js": "https://JKyEun.github.io/react-publish-practice/static/js/main.bb521f20.js",
     "static/js/787.7c42db31.chunk.js": "https://JKyEun.github.io/react-publish-practice/static/js/787.7c42db31.chunk.js",
     "index.html": "https://JKyEun.github.io/react-publish-practice/index.html",
     "main.e6c13ad2.css.map": "https://JKyEun.github.io/react-publish-practice/static/css/main.e6c13ad2.css.map",
-    "main.878c6d99.js.map": "https://JKyEun.github.io/react-publish-practice/static/js/main.878c6d99.js.map",
+    "main.bb521f20.js.map": "https://JKyEun.github.io/react-publish-practice/static/js/main.bb521f20.js.map",
     "787.7c42db31.chunk.js.map": "https://JKyEun.github.io/react-publish-practice/static/js/787.7c42db31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.878c6d99.js"
+    "static/js/main.bb521f20.js"
   ]
 }
